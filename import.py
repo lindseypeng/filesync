@@ -5,3 +5,7 @@ if len(sys.argv) <2:
 else:
     for x in sys.argv:
         print "Argument:{}".format(x)
+
+        
+        #####use bash command###########
+        ####python {filename.py} argument1, argument 2,etc###############
